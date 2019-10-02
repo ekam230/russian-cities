@@ -14,7 +14,7 @@
 * Один город на строку. 
 * Формат строки: имя города в 6 падежах: именительный,родительный,дательный,винительный,творительный,предложный. 
 * Сортировка по алфавиту
-[ссылка на базу](https://github.com/mfursov/russian-cities/blob/master/database/cities_inflection.csv)      
+[ссылка на базу](https://github.com/ekam230/russian-cities/blob/master/database/cities_inflection.csv)      
 
 #### Русский ⇔ Английский перевод имен городов
 Перевод проверялся по базе геолокаций «Яндекс Карт»
@@ -23,7 +23,7 @@
 * Один город на строку. 
 * Формат строки: имя на русском,имя на английском 
 * Сортировка по алфавиту
-[ссылка на базу](https://github.com/mfursov/russian-cities/blob/master/database/cities_ru_en.csv)      
+[ссылка на базу](https://github.com/ekam230/russian-cities/blob/master/database/cities_ru_en.csv)      
 
 ## Помощь проекту
 
